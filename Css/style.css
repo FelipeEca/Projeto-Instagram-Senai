@@ -15,6 +15,8 @@ body{
 
 .title{
     color: white;
+    text-align: center;
+    color: red;
 }
 
 .post img{
@@ -138,6 +140,7 @@ body{
     transition: 0.3s;
     text-decoration: none;
    }
+
 
 
    
